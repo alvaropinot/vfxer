@@ -1,0 +1,30 @@
+{
+  "name": "vfxer",
+  "version": "1.0.0",
+  "description": "engines version fixer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx nodemon -i foo.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaropinot/vfxer.git"
+  },
+  "keywords": [
+    "engines",
+    "version",
+    "fixer"
+  ],
+  "author": {
+    "name": "Alvaro Pinot",
+    "email": "alvaro@neatnait.com",
+    "url": "http://github.com/alvaropinot",
+    "twitter": "@alvaropinot"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvaropinot/vfxer/issues"
+  },
+  "homepage": "https://github.com/alvaropinot/vfxer#readme"
+}
